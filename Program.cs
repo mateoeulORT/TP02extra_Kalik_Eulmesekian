@@ -25,7 +25,6 @@ do
         case 3:
             double skill1 = superHeroe1.ObtenerSkill();
             double skill2 = superHeroe2.ObtenerSkill();
-            Console.WriteLine(skill1 + " " + skill2);
 
             if (superHeroe1.Nombre == string.Empty || superHeroe2.Nombre == string.Empty)
             {
