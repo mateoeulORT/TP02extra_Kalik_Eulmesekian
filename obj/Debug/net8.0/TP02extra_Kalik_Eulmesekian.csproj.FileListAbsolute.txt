@@ -1,0 +1,18 @@
+C:\Users\Usuario\Desktop\Prog 4to año\Programacion\2do Bimestre\TP02extra_Kalik_Eulmesekian\obj\Debug\net8.0\TP02extra_Kalik_Eulmesekian.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Prog 4to año\Programacion\2do Bimestre\TP02extra_Kalik_Eulmesekian\obj\Debug\net8.0\TP02extra_Kalik_Eulmesekian.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Prog 4to año\Programacion\2do Bimestre\TP02extra_Kalik_Eulmesekian\obj\Debug\net8.0\TP02extra_Kalik_Eulmesekian.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Prog 4to año\Programacion\2do Bimestre\TP02extra_Kalik_Eulmesekian\obj\Debug\net8.0\TP02extra_Kalik_Eulmesekian.csproj.CoreCompileInputs.cache
+Z:\Info\4to año\Programación\TP02extra_Kalik_Eulmesekian\bin\Debug\net8.0\TP02extra_Kalik_Eulmesekian.exe
+Z:\Info\4to año\Programación\TP02extra_Kalik_Eulmesekian\bin\Debug\net8.0\TP02extra_Kalik_Eulmesekian.deps.json
+Z:\Info\4to año\Programación\TP02extra_Kalik_Eulmesekian\bin\Debug\net8.0\TP02extra_Kalik_Eulmesekian.runtimeconfig.json
+Z:\Info\4to año\Programación\TP02extra_Kalik_Eulmesekian\bin\Debug\net8.0\TP02extra_Kalik_Eulmesekian.dll
+Z:\Info\4to año\Programación\TP02extra_Kalik_Eulmesekian\bin\Debug\net8.0\TP02extra_Kalik_Eulmesekian.pdb
+Z:\Info\4to año\Programación\TP02extra_Kalik_Eulmesekian\obj\Debug\net8.0\TP02extra_Kalik_Eulmesekian.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Info\4to año\Programación\TP02extra_Kalik_Eulmesekian\obj\Debug\net8.0\TP02extra_Kalik_Eulmesekian.AssemblyInfoInputs.cache
+Z:\Info\4to año\Programación\TP02extra_Kalik_Eulmesekian\obj\Debug\net8.0\TP02extra_Kalik_Eulmesekian.AssemblyInfo.cs
+Z:\Info\4to año\Programación\TP02extra_Kalik_Eulmesekian\obj\Debug\net8.0\TP02extra_Kalik_Eulmesekian.csproj.CoreCompileInputs.cache
+Z:\Info\4to año\Programación\TP02extra_Kalik_Eulmesekian\obj\Debug\net8.0\TP02extra_Kalik_Eulmesekian.dll
+Z:\Info\4to año\Programación\TP02extra_Kalik_Eulmesekian\obj\Debug\net8.0\refint\TP02extra_Kalik_Eulmesekian.dll
+Z:\Info\4to año\Programación\TP02extra_Kalik_Eulmesekian\obj\Debug\net8.0\TP02extra_Kalik_Eulmesekian.pdb
+Z:\Info\4to año\Programación\TP02extra_Kalik_Eulmesekian\obj\Debug\net8.0\TP02extra_Kalik_Eulmesekian.genruntimeconfig.cache
+Z:\Info\4to año\Programación\TP02extra_Kalik_Eulmesekian\obj\Debug\net8.0\ref\TP02extra_Kalik_Eulmesekian.dll
