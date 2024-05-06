@@ -24,7 +24,8 @@ do
 
         case 3:
             double skill1 = superHeroe1.ObtenerSkill();
-            double skill2 = superHeroe1.ObtenerSkill();
+            double skill2 = superHeroe2.ObtenerSkill();
+            Console.WriteLine(skill1 + " " + skill2);
 
             if (superHeroe1.Nombre == string.Empty || superHeroe2.Nombre == string.Empty)
             {
@@ -32,7 +33,27 @@ do
             }
             else
             {
-                
+                if (skill1 - skill2 > 30)
+                {
+                    Console.WriteLine($"Ganó {superHeroe1.Nombre} por amplia diferencia");
+                } else if (skill2 - skill1 > 30)
+                {
+                    Console.WriteLine($"Ganó {superHeroe2.Nombre} por amplia diferencia");
+                }
+                else if (skill1 - skill2 > 10)
+                {
+                    Console.WriteLine($"Ganó {superHeroe1.Nombre}. Fue muy parejo");
+                }else if (skill2 - skill1 > 10)
+                {
+                    Console.WriteLine($"Ganó {superHeroe2.Nombre}. Fue muy parejo");
+                }
+                else if (skill1 - skill2 > 0)
+                {
+                    Console.WriteLine($"Ganó {superHeroe1.Nombre} ¡No le sobró nada!");
+                }else if (skill2 - skill1 > 0)
+                {
+                    Console.WriteLine($"Ganó {superHeroe2.Nombre} ¡No le sobró nada!");
+                }
             }
             break;
 
