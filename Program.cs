@@ -103,7 +103,7 @@ static string IngresarString (string mensaje){
     {
         Console.WriteLine(mensaje);
         msj = Console.ReadLine();
-    } while (msj == null);
+    } while (msj == string.Empty);
     return msj;
 }
 
