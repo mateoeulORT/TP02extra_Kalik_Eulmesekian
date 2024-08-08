@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "Z:\\Info\\4to año\\Programación\\TP02extra_Kalik_Eulmesekian\\TP02extra_Kalik_Eulmesekian.csproj": {}
+    "C:\\Users\\Mateo\\Desktop\\Programacion\\2do bim\\TP02extra_Kalik_Eulmesekian\\TP02extra_Kalik_Eulmesekian.csproj": {}
   },
   "projects": {
-    "Z:\\Info\\4to año\\Programación\\TP02extra_Kalik_Eulmesekian\\TP02extra_Kalik_Eulmesekian.csproj": {
+    "C:\\Users\\Mateo\\Desktop\\Programacion\\2do bim\\TP02extra_Kalik_Eulmesekian\\TP02extra_Kalik_Eulmesekian.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Z:\\Info\\4to año\\Programación\\TP02extra_Kalik_Eulmesekian\\TP02extra_Kalik_Eulmesekian.csproj",
+        "projectUniqueName": "C:\\Users\\Mateo\\Desktop\\Programacion\\2do bim\\TP02extra_Kalik_Eulmesekian\\TP02extra_Kalik_Eulmesekian.csproj",
         "projectName": "TP02extra_Kalik_Eulmesekian",
-        "projectPath": "Z:\\Info\\4to año\\Programación\\TP02extra_Kalik_Eulmesekian\\TP02extra_Kalik_Eulmesekian.csproj",
-        "packagesPath": "C:\\Users\\48044168\\.nuget\\packages\\",
-        "outputPath": "Z:\\Info\\4to año\\Programación\\TP02extra_Kalik_Eulmesekian\\obj\\",
+        "projectPath": "C:\\Users\\Mateo\\Desktop\\Programacion\\2do bim\\TP02extra_Kalik_Eulmesekian\\TP02extra_Kalik_Eulmesekian.csproj",
+        "packagesPath": "C:\\Users\\Mateo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mateo\\Desktop\\Programacion\\2do bim\\TP02extra_Kalik_Eulmesekian\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\48044168\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Mateo\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -64,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

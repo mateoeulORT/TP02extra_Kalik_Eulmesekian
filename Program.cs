@@ -4,6 +4,7 @@ SuperHeroe superHeroe2 = new SuperHeroe("", "", 0, 0, 0);
 
 do
 {
+    Console.WriteLine("probando git");   
     Console.WriteLine("1. Cargar superheroe 1");
     Console.WriteLine("2. Cargar superheroe 2");
     Console.WriteLine("3. ¡PELEAR!");
